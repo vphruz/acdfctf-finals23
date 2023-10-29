@@ -1,5 +1,5 @@
 | Name         | Points |
 |--------------|--------|
-| [Toka]         | 50     |
-| [Lost-Message] | 150    |
-| [Itachi]       | 150    |
+| [Toka](./toka/toka.md)         | 50     |
+| [Lost-Message](./lost-message/lost-message.md) | 150    |
+| [Itachi](./itachi/itachi.md)       | 150    |
