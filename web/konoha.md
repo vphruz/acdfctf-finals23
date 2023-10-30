@@ -13,3 +13,4 @@ Hint: Kismet-Abzee-Berrywuzh3rx, hmmm what could be the last key.
 # solution
 
 # flag
+acdfCTF{My_s3cr3t_fl4g_1s_4ll_y0urs_buddy}
