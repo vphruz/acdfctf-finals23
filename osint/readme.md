@@ -1,5 +1,5 @@
 | Name            | Points |
 |-----------------|--------|
-| [Ackermann](./)       | 100    |
-| [Meta](./)            | 150    |
-| [Unlock Byakugan](./) | 200    |
+| [Ackermann](./ackermann/ackermann.md)       | 100    |
+| [Meta](./meta/meta.md)            | 150    |
+| [Unlock Byakugan](./unlock-byakugan.md) | 200    |

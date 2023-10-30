@@ -1,4 +1,4 @@
 | Name          | Points |
 |---------------|--------|
-| [Rusty Rickets](./) | 300    |
+| [Rusty Rickets](./rusty-rickets/rusty-rickets.md) | 300    |
 | [Escobar](./)       | 1200   |
