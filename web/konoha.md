@@ -9,7 +9,7 @@ Hint: For the missing 5 char in Konoha source code. Only numbers and alphabet ca
 
 View Hint
 Hint: Kismet-Abzee-Berrywuzh3rx, hmmm what could be the last key.
-
+[file](./source.php)
 # solution
 
 # flag
